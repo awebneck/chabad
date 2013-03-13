@@ -1,0 +1,9 @@
+/**--------APPLICATION STYLES--------**/
+
+body {
+  margin-top: 40px;
+}
+
+div.navbar-fixed-top a.brand {
+  margin-left: 0;
+}
